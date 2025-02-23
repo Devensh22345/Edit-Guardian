@@ -10,7 +10,7 @@ OWNER_ID = "6872968794"
 
 SUDO_ID = ""
 
-MONGO_URI = ""
+MONGO_URI = "mongodb+srv://Edit:Edit@cluster0.dzzd8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 DB_NAME = "hasnainkk"
 
